@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/or-saada/" title="video text"><img src="linkedin_img.jpeg" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/or-saada/" title="video text"><img src="768px-LinkedIn_logo_initials.webp" width="50" height="50"></a>
 
 <!--
 **orsaada/orsaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
